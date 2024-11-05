@@ -1,6 +1,13 @@
-# SnapBridge
+# SnapBridge - seamless media transfer
+
+<p align="center">
+  <img src="https://github.com/amstrdm/SnapBridge/blob/main/icon.png" />
+</p>
 
 SnapBridge is a Windows application and iOS shortcut that lets you automatically transfer photos and videos from your iPhone to your Windows PC over a local network connection. It includes a server that runs on Windows, receives media as POST requests from the iPhone, and saves the files on your computer. The application runs in the system tray, where you can easily configure settings, open the IP display window, and access other options.
+
+
+
 
 ---
 
