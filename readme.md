@@ -32,7 +32,7 @@ SnapBridge is a Windows application and iOS shortcut that lets you automatically
 
 ## Installation
 To install SnapBridge on your PC:
-1. **Download**: You can download the precompiled `.exe` from the GitHub packages in this repository.
+1. **Download**: You can download the precompiled `.exe` from the GitHub releases in this repository.
 2. **Run the Application**: Execute `SnapBridge.exe` to start the server. It will automatically add itself to Windows startup, so it runs each time you log in.
 
 If you prefer to build it yourself, see the [Compiling the Application](#compiling-the-application) section.
